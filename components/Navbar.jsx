@@ -13,7 +13,9 @@ const Navbar = () => {
     <div className="navbar-container">
         <p className="logo">
             <Link href="/">
-                <Image src={logo} />
+              <a >
+                 <Image src={logo} />
+                </a>
             </Link>
         </p>
 

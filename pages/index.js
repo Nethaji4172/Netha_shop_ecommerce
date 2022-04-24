@@ -19,7 +19,7 @@ const Home = ({ products, bannerData }) => {
       </div>
 
       <FooterBanner footerBanner={ bannerData && bannerData[2] } />
-      {console.log(bannerData)}
+      {/* {console.log(bannerData)} */}
 
     </>
   )
