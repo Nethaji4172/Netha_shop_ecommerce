@@ -70,7 +70,7 @@ const ProductDetails = ({ products, product }) => {
                         Add to cart
                     </button>
                     <button type="button" className='buy-now' onClick={handleBuyNow}>
-                        <span class="l-1">B</span><span class="l-2">u</span><span class="l-3">y</span> <span class="l-4">N</span><span class="l-5">o</span><span class="l-6">w</span>
+                        <span className="l-1">B</span><span className="l-2">u</span><span className="l-3">y</span> <span className="l-4">N</span><span className="l-5">o</span><span className="l-6">w</span>
                     </button>
                 </div>
             </div>
