@@ -1,5 +1,17 @@
 Open [Ecommerce Shop](https://ecommerce-netha-shop.vercel.app/)
 
+<a href="https://ecommerce-netha-shop.vercel.app/" target="_blank" rel="noreferrer">
+  <img src="https://nethajees.com/my-works/other-images/ecommerce-shop/1.png" width="100%" height="100%"  />
+  <img src="https://nethajees.com/my-works/other-images/ecommerce-shop/2.png" width="100%" height="100%"  />
+  <img src="https://nethajees.com/my-works/other-images/ecommerce-shop/3.png" width="100%" height="100%"  />
+  <img src="https://nethajees.com/my-works/other-images/ecommerce-shop/4.png" width="100%" height="100%"  />
+  <img src="https://nethajees.com/my-works/other-images/ecommerce-shop/5.png" width="100%" height="100%"  />
+</a>
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
